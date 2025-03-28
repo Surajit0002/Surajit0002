@@ -1,87 +1,54 @@
-<h1 align="center">👋 Hi, I'm Surajit (@Surajit0002)</h1>
-<h3 align="center">🚀 Full-Stack React Native Developer | AI & Game Enthusiast | UPI Integration Expert</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=550&lines=React.js+%7C+React+Native+%7C+AI+%7C+Game+Development;Building+Scalable+Mobile+and+Web+Apps;Expert+in+UPI+and+Payment+Integrations" />
-</p>
+<h1 align="center">Hi 👋, I'm Surajit (@Surajit0002)</h1>
+<h3 align="center">🚀 React.js | React Native Developer | AI & Game Enthusiast</h3>
 
 ---
 
 ## 🌍 About Me  
-- 👀 **Interested in:** AI-based apps, real-time payments, and gamification  
-- 🌱 **Currently Learning:** AI-based recommendations, Appwrite, and Redux Toolkit  
-- 💡 **Exploring:** Multi-platform app architecture and dynamic UPI payments  
-- 💞️ **Open to Collaborate on:** AI apps, payment gateways, and social gaming platforms  
+- 👀 **Interested in:** React.js, React Native, AI-powered apps, and Mobile Games  
+- 🌱 **Currently Learning:** Advanced React Native, Appwrite, AI-based Recommendations  
+- 💡 **Exploring:** UPI Payment Integrations, Dynamic UI, and Gamification  
+- 💞️ **Open to Collaborate on:** Mobile apps, gaming projects, and AI-driven features  
 - 😎 **Pronouns:** He/Him  
-- 🎯 **Goal:** To build India’s most user-friendly rental and gaming platform  
-- 🏆 **Fun Fact:** I built a real-time UPI-based game payout system in a weekend! 😎  
+- 🎯 **Goal:** Building scalable and user-friendly applications  
 
 ---
 
 ## 🚀 Skills & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,typescript,tailwind,firebase,nodejs,mongodb,git,github,androidstudio,vscode" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
+  <img src="https://img.shields.io/badge/NativeWind-3b82f6?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Razorpay-0a3eea?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/UPI-008000?style=for-the-badge" />
 </p>
-
-### 🌟 **Tech Stack**  
-| Frontend | Backend | Payments | Tools | API/Services |
-|----------|---------|----------|-------|--------------|
-| React.js, React Native, Expo, NativeWind | Node.js, Appwrite, Express.js | Razorpay, UPI (Google Pay, PhonePe) | Redux, Zustand, Git, VSCode | Firebase, Google Maps, AWS |
 
 ---
 
 ## 🏆 GitHub Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Surajit0002&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Surajit0002&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Surajit0002&show_icons=true&theme=radical&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajit0002&theme=radical" height="180px"/>
 </div>
 
 ---
 
-## 📊 Contribution Activity  
+## 📈 Top Languages  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surajit0002&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajit0002&layout=compact&theme=radical" height="180px" />
 </div>
 
 ---
 
-## 🔥 Most Used Languages  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajit0002&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 🚀 Featured Projects  
-### 🎯 **myBharathRooms**  
-> _AI-powered accommodation platform with real-time search, UPI payments, and dynamic pricing_  
-✅ React Native, Firebase, Razorpay, Google Maps  
-🌟 [View Project](https://github.com/Surajit0002/myBharathRooms)  
-
-### 🎮 **gameX**  
-> _Reward-based gaming platform with UPI payouts and leaderboard_  
-✅ React Native, Redux, Razorpay  
-🌟 [View Project](https://github.com/Surajit0002/gameX)  
-
-### 🏡 **Roommate Finder**  
-> _AI-based matchmaking for roommates with real-time chat and habit tracking_  
-✅ React Native, Firebase, AI  
-🚀 In Progress  
-
----
-
-## 🏆 Achievements  
-🏅 **Completed 30+ successful projects**  
-🔥 **2000+ Commits in the last year**  
-🚀 **5K+ Downloads for myBharathRooms**  
-⭐ **10K+ Monthly Active Users (MAU)**  
-
----
-
-## 🏅 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Surajit0002&theme=dracula&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+## 🎮 My Projects  
+| Name | Description | Tech Stack | Link |
+|------|-------------|------------|------|
+| **myBharathRooms** | AI-powered accommodation booking platform with UPI payment & real-time search | React Native, Firebase, Razorpay, Google Maps | [View Project](https://github.com/Surajit0002/myBharathRooms) |
+| **gameX** | Reward-based game platform with Spin the Wheel & Coin Tap | React Native, Redux, UPI | [View Project](https://github.com/Surajit0002/gameX) |
+| **Roommate Finder** | AI-based matchmaking for roommates | React Native, Firebase, AI | 🚀 In Progress |
 
 ---
 
@@ -96,50 +63,16 @@
   <a href="https://twitter.com/Surajit0002">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://discord.gg/your-link">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-## 🎯 Latest GitHub Activity  
-<!--START_SECTION:activity-->
-1. 🔥 Pushed code to **myBharathRooms** for UPI payment integration  
-2. 🎯 Opened issue on **gameX** for leaderboard bug  
-3. 🚀 Published new release for **Roommate Finder**  
-<!--END_SECTION:activity-->
+## 😄 Fun Fact  
+🛠️ **I once built a full-fledged mobile app in under 48 hours during a hackathon!** 😎
 
 ---
 
-## 🌟 Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-- 🏡 [AI in Property Rentals – The Future of Real Estate](https://your-blog-link.com)  
-- 🎮 [Building a Reward-Based Gaming Platform with UPI](https://your-blog-link.com)  
-- 🔥 [5 Tips for Scaling React Native Apps](https://your-blog-link.com)  
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 😎 Random Dev Meme  
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400px" />
-</p>
-
----
-
-## ❤️ Support  
-If you like my work, consider giving me a ⭐ on GitHub or buying me a coffee! 😊  
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/surajit0002">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-  </a>
-</p>
-
----
-
-⭐️ _Thank you for visiting my profile!_ 😎  
+⭐️ _Feel free to check out my repos and drop a ⭐️ if you like them!_ 😍  
 
 ---
 
